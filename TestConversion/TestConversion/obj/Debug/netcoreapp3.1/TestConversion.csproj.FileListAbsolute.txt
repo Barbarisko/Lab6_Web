@@ -1,0 +1,12 @@
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.exe
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.deps.json
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.runtimeconfig.json
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.runtimeconfig.dev.json
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.dll
+C:\Users\helen\source\repos\TestConversion\TestConversion\bin\Debug\netcoreapp3.1\TestConversion.pdb
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.AssemblyInfoInputs.cache
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.AssemblyInfo.cs
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.csproj.CoreCompileInputs.cache
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.dll
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.pdb
+C:\Users\helen\source\repos\TestConversion\TestConversion\obj\Debug\netcoreapp3.1\TestConversion.genruntimeconfig.cache
